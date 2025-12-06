@@ -164,13 +164,6 @@ A multi-layered notification architecture ensures redundancy.
 * OpenCV
 * GeoPandas
 
-### **Cloud**
-
-* AWS Lambda
-* Google Cloud Functions
-* Docker
-* Kubernetes (optional)
-
 ### **Data Providers**
 
 * Sentinel-1 SAR
@@ -207,7 +200,7 @@ Runs lightweight CNN + AIS anomaly detection locally on ships.
 
 ---
 
-## Screenshots & Figures 
+## Figures 
 
 <img width="279" height="803" alt="image" src="https://github.com/user-attachments/assets/9f878d84-9e0b-4ba2-afb8-8aa28a974bf6" />
 
