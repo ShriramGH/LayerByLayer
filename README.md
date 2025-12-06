@@ -221,10 +221,10 @@ Runs lightweight CNN + AIS anomaly detection locally on ships.
 
 ##  Contributors
 
-* **Shriram S**
-* **Kanishkar M**
-* **Mr. Dinesh Babu G L** (Assistant Professor, Guide)
 * **Sri Varshan P**
+* **Shriram S**
+* **Mr. Dinesh Babu G L** (Assistant Professor, Guide)
+* **Kanishkar M**
 
 
 
