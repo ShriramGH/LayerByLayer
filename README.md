@@ -26,7 +26,7 @@ Traditional oil spill monitoring methods face significant constraints:
 * Insufficient connectivity in offshore areas
 * Limited automation in existing surveillance systems
 
-**Objective:** Develop an **AI-driven, cloud-native, automated** system capable of detecting spills with high precision in real time.
+**Objective:** Develop an **AI-driven, automated** system capable of detecting spills with high precision in real time.
 
 ## How This System Addresses the Problem
 
