@@ -226,12 +226,6 @@ Runs lightweight CNN + AIS anomaly detection locally on ships.
 * **Mr. Dinesh Babu G L** (Assistant Professor, Guide)
 * **Sri Varshan P**
 
----
 
-##  License
-
-Released under the **MIT License**.
-
----
 
 
